@@ -17,7 +17,7 @@ It teaches the basics of creating a simple webpage using only HTML.
 ## Requirements
 - Use only HTML/CSS/JavaScript (no external libraries)
 - All files must end with a new line
-- Code must be W3C compliant
+- Code must be git pushW3C compliant
 - Must pass the W3C HTML and CSS validators
 
 ## Viewing the Website
